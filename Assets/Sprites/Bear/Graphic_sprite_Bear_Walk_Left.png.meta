@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 08ced70668061054297766fde879dbe7
+timeCreated: 1433491895
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Graphic_sprite_Bear_Walk_Left_0
+    21300002: Graphic_sprite_Bear_Walk_Left_1
+    21300004: Graphic_sprite_Bear_Walk_Left_2
+    21300006: Graphic_sprite_Bear_Walk_Left_3
+    21300008: Graphic_sprite_Bear_Walk_Left_4
+    21300010: Graphic_sprite_Bear_Walk_Left_5
+    21300012: Graphic_sprite_Bear_Walk_Left_6
+    21300014: Graphic_sprite_Bear_Walk_Left_7
+    21300016: Graphic_sprite_Bear_Walk_Left_8
+    21300018: Graphic_sprite_Bear_Walk_Left_9
+    21300020: Graphic_sprite_Bear_Walk_Left_10
+    21300022: Graphic_sprite_Bear_Walk_Left_11
+    21300024: Graphic_sprite_Bear_Walk_Left_12
+    21300026: Graphic_sprite_Bear_Walk_Left_13
+    21300028: Graphic_sprite_Bear_Walk_Left_14
+    21300030: Graphic_sprite_Bear_Walk_Left_15
+    21300032: Graphic_sprite_Bear_Walk_Left_16
+    21300034: Graphic_sprite_Bear_Walk_Left_17
+    21300036: Graphic_sprite_Bear_Walk_Left_18
+    21300038: Graphic_sprite_Bear_Walk_Left_19
+    21300040: Graphic_sprite_Bear_Walk_Left_20
+    21300042: Graphic_sprite_Bear_Walk_Left_21
+    21300044: Graphic_sprite_Bear_Walk_Left_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Graphic_sprite_Bear_Walk_Left_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 201
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 150
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 150
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 102
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 53
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Bear_Walk_Left_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

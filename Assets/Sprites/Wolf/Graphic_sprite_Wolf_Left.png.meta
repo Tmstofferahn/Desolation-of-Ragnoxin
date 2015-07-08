@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 1f7bdeba3b7b2b74a94a55fd132d86c7
+timeCreated: 1433447492
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Graphic_sprite_Wolf_Left_0
+    21300002: Graphic_sprite_Wolf_Left_1
+    21300004: Graphic_sprite_Wolf_Left_2
+    21300006: Graphic_sprite_Wolf_Left_3
+    21300008: Graphic_sprite_Wolf_Left_4
+    21300010: Graphic_sprite_Wolf_Left_5
+    21300012: Graphic_sprite_Wolf_Left_6
+    21300014: Graphic_sprite_Wolf_Left_7
+    21300016: Graphic_sprite_Wolf_Left_8
+    21300018: Graphic_sprite_Wolf_Left_9
+    21300020: Graphic_sprite_Wolf_Left_10
+    21300022: Graphic_sprite_Wolf_Left_11
+    21300024: Graphic_sprite_Wolf_Left_12
+    21300026: Graphic_sprite_Wolf_Left_13
+    21300028: Graphic_sprite_Wolf_Left_14
+    21300030: Graphic_sprite_Wolf_Left_15
+    21300032: Graphic_sprite_Wolf_Left_16
+    21300034: Graphic_sprite_Wolf_Left_17
+    21300036: Graphic_sprite_Wolf_Left_18
+    21300038: Graphic_sprite_Wolf_Left_19
+    21300040: Graphic_sprite_Wolf_Left_20
+    21300042: Graphic_sprite_Wolf_Left_21
+    21300044: Graphic_sprite_Wolf_Left_22
+    21300046: Graphic_sprite_Wolf_Left_23
+    21300048: Graphic_sprite_Wolf_Left_24
+    21300050: Graphic_sprite_Wolf_Left_25
+    21300052: Graphic_sprite_Wolf_Left_26
+    21300054: Graphic_sprite_Wolf_Left_27
+    21300056: Graphic_sprite_Wolf_Left_28
+    21300058: Graphic_sprite_Wolf_Left_29
+    21300060: Graphic_sprite_Wolf_Left_30
+    21300062: Graphic_sprite_Wolf_Left_31
+    21300064: Graphic_sprite_Wolf_Left_32
+    21300066: Graphic_sprite_Wolf_Left_33
+    21300068: Graphic_sprite_Wolf_Left_34
+    21300070: Graphic_sprite_Wolf_Left_35
+    21300072: Graphic_sprite_Wolf_Left_36
+    21300074: Graphic_sprite_Wolf_Left_37
+    21300076: Graphic_sprite_Wolf_Left_38
+    21300078: Graphic_sprite_Wolf_Left_39
+    21300080: Graphic_sprite_Wolf_Left_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Graphic_sprite_Wolf_Left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 492
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 496
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 497
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 496
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 496
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 496
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 496
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 496
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 496
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 425
+        width: 106
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 437
+        width: 111
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 425
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 425
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 425
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 355
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 355
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 355
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 355
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 259
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 259
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 259
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 171
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 187
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 187
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 97
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 97
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 97
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 97
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 97
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 97
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Graphic_sprite_Wolf_Left_40
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
